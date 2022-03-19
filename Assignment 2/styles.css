@@ -1,0 +1,40 @@
+html, body, header, h1, h2, h3{
+    margin: 0;
+}
+
+header{
+    height: 50px;
+    width: 100%;
+    background-color:silver;
+    text-align: center;
+}
+
+main{
+    background-color: lightsteelblue;
+}
+
+footer{
+    text-align: center;
+    height: 100px;
+    background-color:silver;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+h2{
+    text-shadow: 2px 2px gray;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+p, sub, sup, b, i{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    font-size: medium;
+}
+
